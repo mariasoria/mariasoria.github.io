@@ -34,9 +34,16 @@ img: ":mariasoriaBW.png"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+My name is Maria and I was born in Valencia (Spain).
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+I decided to study a degree in Engineering in Telematics inspired by my brother who was studying computering.
 
-{{ website_info_text_second }}
+During my professional life I have worked with different programming languages such Java,
+Perl, Javascript or Python and used different frameworks like Spring Boot, Vue3 and Django.
+I have worked with docker and different kind of databases both relational and document-oriented as well.
+
+I share a [Twitch](https://www.twitch.com/codingiscaring) channel with my friend [Yodra](https://www.yodralopez.dev) where we talk about coding, such as design patterns,
+katas, good practises and so on.
+
+I'm a member of the women developer's association [AdaLoveDev](https://www.twitter.com/adalovedev)
+and co-organiser of the event [AdaLoversConf](http://adaloversconf.es).
