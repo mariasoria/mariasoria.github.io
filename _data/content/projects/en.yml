@@ -8,7 +8,7 @@ page_data:
     info: "These are the projects I am involved with"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    img: ":projects-heading.png"
     back_color: "lightblue"
 
   category:
@@ -26,8 +26,8 @@ page_data:
     - type: id_streaming
       project_name: "Coding is caring"
       project_excerpt: "I share with my friend Yodra a Twitch channel..."
-      img: ":project1_thumb.jpg"
-      img_title: "img title1"
+      img: ":CICIcon.png"
+      img_title: "CIC Icon"
       date: "2021-05-31"
       post: Since 31st of May of 2021, I share with my friend [Yodra](https://www.yodralopez.dev) a
         [Twitch](https://www.twitch.com/codingiscaring)
