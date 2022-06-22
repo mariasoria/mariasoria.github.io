@@ -29,7 +29,8 @@ page_data:
       img: ":project1_thumb.jpg"
       img_title: "img title1"
       date: "2021-05-31"
-      post: Since 31st of May of 2021, I share with my friend Yodra a Twitch
+      post: Since 31st of May of 2021, I share with my friend [Yodra](https://www.yodralopez.dev) a
+        [Twitch](https://www.twitch.com/codingiscaring)
         channel where we talk about programming related topics.
 
         We both are software developers and would like to share our knowledge
