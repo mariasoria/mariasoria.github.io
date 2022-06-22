@@ -12,18 +12,18 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
+    - title: "Streaming"
+      type: id_streaming
       color: "gray"
-    - title: "Picture"
-      type: id_picture
-      color: "#62b462"
-    - title: "Quote"
-      type: id_quote
-      color: "#2FD0ED"
+#    - title: "Picture"
+#      type: id_picture
+#      color: "#62b462"
+#    - title: "Quote"
+#      type: id_quote
+#      color: "#2FD0ED"
 
   list:
-    - type: id_example
+    - type: id_streaming
       project_name: "Coding is caring"
       project_excerpt: "I share with my friend Yodra a Twitch channel..."
       img: ":project1_thumb.jpg"
