@@ -1,0 +1,37 @@
+# you can move this content to front matter of [language]/tabs/projects.md
+###########################################################
+#                Projects Page Data
+###########################################################
+page_data:
+  main:
+    header: "Proyectos"
+    info: "Éstos son los proyectos en los que participo"
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    img: ":projects-heading.png"
+    back_color: "lightblue"
+
+  category:
+    - title: "Streaming"
+      type: id_streaming
+      color: "gray"
+#    - title: "Picture"
+#      type: id_picture
+#      color: "#62b462"
+#    - title: "Quote"
+#      type: id_quote
+#      color: "#2FD0ED"
+
+  list:
+    - type: id_streaming
+      project_name: "Coding is caring"
+      project_excerpt: "Comparto con mi amiga Yodra un canal de Twitch..."
+      img: ":CICIcon.png"
+      img_title: "CIC Icon"
+      date: "2021-05-31"
+      post: Desde el 31 de mayo de 2021, comparto con mi amiga [Yodra](https://www.yodralopez.dev) un canal de
+        [Twitch](https://www.twitch.com/codingiscaring) donde tratamos temas de desarrollo de software.
+
+        Ambas somos programadoras y nos gusta compartir nuestro conocimiento con cualquiera que esté interesado.
+
+        Nos puedes seguir en [CodingIsCaring](https://www.twitch.com/codingiscaring)
