@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Maria Soria Dura"
+brand: "María Soria Durá"
 
 # text below the brand name
 brand_sub_text: "$site_welcome"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Maria Soria Dura"
+name: "María Soria Durá"
 
 # home page top header texts
 home:
@@ -60,7 +60,7 @@ contacts:
 #  - your_new_contact: ""
 
 # Disqus Short name, make sure comments and disqus are enabled in _data/conf/posts.yml file
-disqus_shortname: ""
+disqus_shortname: "María"
 
 # if no id is provided, this feature will be disabled.
 # make sure your environment does not match with google.analytics.ignore in _data/conf/main.yml
