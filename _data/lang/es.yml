@@ -21,15 +21,15 @@ date:
 
 not_found:
   header: Página no encontrada
-  line1: The page you requested could not be found.
-  line2: Try menu, or site search if available.
+  line1: La página solicitada no se ha encontrado.
+  line2: Prueba menu, o la búsqueda si están disponibles.
 
-no_translation_tooltip: No Translation
+no_translation_tooltip: No hay traducción disponible
 
 navigation:
   contact_header: Contacto
 
-color_scheme_switch_tooltip: Color scheme
+color_scheme_switch_tooltip: Esquema de colores
 
 search:
   placeholder: Buscar
@@ -44,12 +44,12 @@ copyright:
 creative_commons:
   some_rights_reserved: Algunos derechos reservados.
   # check _data/owner/[language].yml for license type.
-  by: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution 4.0 International License.
-  by-nd: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
-  by-sa: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-  by-nc: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
-  by-nc-nd: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-  by-nc-sa: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+  by: Salvo que se indique lo contrario, el contenido de este sitio web tiene una licencia Creative Commons Attribution 4.0 International License.
+  by-nd: Salvo que se indique lo contrario, el contenido de este sitio web tiene una licencia Creative Commons Attribution-NoDerivatives 4.0 International License.
+  by-sa: Salvo que se indique lo contrario, el contenido de este sitio web tiene una licencia internacional Creative Commons Attribution-ShareAlike 4.0.
+  by-nc: Salvo que se indique lo contrario, el contenido de este sitio web tiene una licencia Creative Commons Attribution-NonCommercial 4.0 International License.
+  by-nc-nd: Salvo que se indique lo contrario, el contenido de este sitio web tiene una licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+  by-nc-sa: Salvo que se indique lo contrario, el contenido de este sitio web tiene una licencia internacional Creative Commons Attribution-NonCommercial-ShareAlike 4.0.
 
 # for 404 layout
 not-found:
@@ -59,23 +59,23 @@ not-found:
 post:
   read_time:
     unit: " min"
-    text: " read"
+    text: " lectura"
     # c for char w for word
     word_char: w
     # char or words per minute
     per_minute: 200
   pager_buttons:
-    older_post: "← Older Post"
-    newer_post: "Newer Post →"
-    first_post: First
-    last_post: Last
+    older_post: "← Anterior Post"
+    newer_post: "Posterior Post →"
+    first_post: Primero
+    last_post: Último
   comments:
     disqus:
-      count_title: Comments
-      noscript: Please enable JavaScript to view the Comments.
-      click_to_load: "Load Comments"
+      count_title: Comentarios
+      noscript: Por favor, habilita Javascript para ver los comentarios.
+      click_to_load: "Cargar Comentarios"
       consent:
-        title: Comments (Disqus.com)
+        title: Comentarios (Disqus.com)
         text: >
           Comment feature is hosted by a third party. By showing the external content you accept the $terms and $privacy_policy of disqus.com.
           <br>If you prefer to opt out of targeted advertising, open $settings_link and click "opt-out" button and close. Return here and load comments.
