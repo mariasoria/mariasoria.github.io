@@ -35,9 +35,4 @@ title: Maria Soria Dura
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+Promise me you'll always remember: you are braver than you believe, stronger than you seem and smarter than you think
