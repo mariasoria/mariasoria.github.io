@@ -77,22 +77,22 @@ post:
       consent:
         title: Comentarios (Disqus.com)
         text: >
-          Comment feature is hosted by a third party. By showing the external content you accept the $terms and $privacy_policy of disqus.com.
-          <br>If you prefer to opt out of targeted advertising, open $settings_link and click "opt-out" button and close. Return here and load comments.
-        terms_link_text: Terms of Service
-        privacy_link_text: Privacy Policy
-        settings_link_text: this link
+          La funcionalidad de comentarios está alojada por un tercero. Al mostrar el contenido externo, usted acepta los $terms y la $privacy_policy de disqus.com.
+         <br>Si prefiere optar por no recibir publicidad dirigida, abra $settings_link y haga clic en el botón "opt-out" y cierre. Regrese aquí y cargue los comentarios.
+        terms_link_text: Términos del Servicio
+        privacy_link_text: Política de privacidad
+        settings_link_text: este enlace
         button:
-          load_once: Show only this time
-          load_and_do_not_ask_again: Always show
+          load_once: Mostrar sólo esta vez
+          load_and_do_not_ask_again: Mostrar siempre
   table_of_contents:
-    heading: Contents
+    heading: Contenidos
     tooltip:
-      move: Drag to move
-      close: Close
+      move: Arrastra para mover
+      close: Cerrar
   share:
-    heading: Share on
-    link_copied: Link copied!
+    heading: Compartir en
+    link_copied: Enlace copiado!
     tooltip:
       # keys need to match with _data/share.yml
       twitter: Twitter
@@ -100,7 +100,7 @@ post:
       telegram: Telegram
       linkedin: LinkedIn
       email: Email
-      copy_link: Copy link
+      copy_link: Copiar enlace
 
 # for post-list layout
 post-list:
@@ -109,40 +109,40 @@ post-list:
   upside_down_tabs:
     tab:
       all: All
-      categories: Categories
-      tags: Tags
-      years: Years
-      clear: Clear
-      close: Close
+      categories: Categorías
+      tags: Etiquetas
+      years: Años
+      clear: Limpiar
+      close: Cerrar
       tooltip:
-        clear: Clear
-        close: Close
+        clear: Limpiar
+        close: Cerrar
     msg:
       property_list:
         # keys need to match with /query/post-query.json
-        tags: Tag
-        category: Category
-        year: Year
+        tags: Etiqueta
+        category: Categoría
+        year: Año
       # you can use these wildcards, {property} {value} {thumb}
       resultFoundTitleFormat: "{property} : {thumb}"
 
 # for home layout
 home:
   title: Welcome
-  button_name: Home
-  new_posts_title: New Articles
-  new_posts_show_more_button: View More ...
+  button_name: Inicio
+  new_posts_title: Nuevos Artículos
+  new_posts_show_more_button: Ver más ...
 
 # for archives layout
 archives:
-  title: Archive
-  button_name: Archive
-  page_header: Archive
+  title: Archivo
+  button_name: Archivo
+  page_header: Archivo
 
 # for about layout
 about:
-  title: About
-  button_name: About
+  title: Sobre mí
+  button_name: Sobre mí
   email_title: email
 
 # for links layout
@@ -154,72 +154,72 @@ about:
 
 # for projects layout
 projects:
-  title: Projects
-  button_name: Projects
-  read_more_text: Read more
-  read_less_text: Read less
+  title: Proyectos
+  button_name: Proyectos
+  read_more_text: Leer más
+  read_less_text: Leer menos
 
 # for privacy-policy layout
 privacy-policy:
-  title: &privacy_policy_title Privacy policy
+  title: &privacy_policy_title Política de privacidad
 
 # constants to be replaced for
 constants:
-  greetings: Hello
+  greetings: Hola
   welcome: Welcome
   sample: Sample
 
 # for cookie consent
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
-  side_nav_setting_button_tooltip: &cookie_settings Cookie settings
+  side_nav_setting_button_tooltip: &cookie_settings Preferencias de Cookies
   panel_bar:
     msg: >
-      This website uses cookies to optimize site functionality.
-      It will be activated with your approval.
-    privacy_msg: Check $privacy_link.
+      Este sitio web utiliza cookies para optimizar la funcionalidad del sitio.
+      Se activará con su aprobación.
+    privacy_msg: Revisar $privacy_link.
     buttons:
-      accept: &accept_button Allow all
-      settings: Customize
-      deny: &deny_button Deny
+      accept: &accept_button Permitir todo
+      settings: Personalizar
+      deny: &deny_button Denegar
   panel_settings:
     title: *cookie_settings
     msg: >
-      This website uses cookies to optimize site functionality.
-      It will be activated with your approval. Please click each item below for cookie policy.
-    privacy_msg: Check $privacy_link.
+      Este sitio web utiliza cookies para optimizar la funcionalidad del sitio.
+      Se activará con su aprobación. Haga clic en cada elemento a continuación para conocer la política de cookies.
+    privacy_msg: Revisar $privacy_link.
     buttons:
       accept: *accept_button
-      save: Allow selection
+      save: Permitir la selección
       deny: *deny_button
-    always_active: Always active
+    always_active: Siempre activo
     consent_types:
       necessary:
-        title: Strictly necessary cookies
+        title: Sólo las cookies estrictamente necesarias
         info: >
-          These cookies are essential for the website function and cannot be disable.
-          They are usually set when site function like color scheme etc. is changed.
-          These cookies do not store any personally identifiable information.
+          Estas cookies son esenciales para el funcionamiento del sitio web y no se pueden desactivar.
+          Por lo general, se configuran cuando se cambia la función del sitio, como el esquema de color, etc.
+          Estas cookies no almacenan ninguna información de identificación personal.
           $gtag_info
       analytics:
-        title: Performance cookies #Performance and analytics cookies
+        title: Rendimiento cookies #Performance and analytics cookies
         info: $gtag_info
       preferences:
-        title: Functionality cookies
+        title: Funcionalidad cookies
         info: $gtag_info
       advertising:
-        title: Targeting and advertising cookies
+        title: Cookies de segmentación y publicidad
         info: $gtag_info
     gtag_info:
       # from https://support.google.com/tagmanager/answer/10718549#consent-types
       ad_storage: >
-        Enables storage (such as cookies) related to advertising.
+        Habilita el almacenamiento (como las cookies) relacionado con la publicidad.
       analytics_storage: >
-        Enables storage (such as cookies) related to analytics e.g. visit duration.
+        Habilita el almacenamiento (como cookies) relacionado con análisis, ej. duración de la visita.
       functionality_storage: >
-        Enables storage that supports the functionality of the website or app e.g. language settings.
+        Habilita el almacenamiento que admite la funcionalidad del sitio web o la aplicación, ej. ajustes de idioma.
       personalization_storage: >
-        Enables storage related to personalization e.g. video recommendations.
+        Habilita el almacenamiento relacionado con la personalización, ej. recomendaciones de videos
       security_storage: >
-        Enables storage related to security such as authentication functionality,
-        fraud prevention, and other user protection.
+        Habilita el almacenamiento relacionado con la seguridad, como la funcionalidad de autenticación,
+        prevención de fraude y otra protección del usuario.
