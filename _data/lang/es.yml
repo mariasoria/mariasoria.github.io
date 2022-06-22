@@ -1,48 +1,48 @@
 lng:
-  name: English
+  name: Español
   # based on ISO_639-1 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-  code: en
+  code: es
   # specifically needed for open-graph meta og:locale. if open_graph or html_lng_with_country_code not enabled in _data/conf/main.yml, it's not necessary.
   # For html tags, you can enable or disable using html_lng_with_country_code defined in _data/conf/main.yml
   # based on ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-  country: UK
-  switch_title: En
+  country: ES
+  switch_title: Es
   offer:
     title: Language
-    msg_page: View this page in English.
+    msg_page: Ver esta página en español.
     # if page translation is not available, use this.
-    msg_site: To English home page
+    msg_site: Página de inicio en español
 
 date:
   long: "%b %-d, %Y"
   day: "%d"
   year: "%Y"
-  months: [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]
+  months: [Ene, Feb, Mar, Abr, May, Jun, Jul, Ago, Sep, Oct, Nov, Dec]
 
 not_found:
-  header: Page not found
+  header: Página no encontrada
   line1: The page you requested could not be found.
   line2: Try menu, or site search if available.
 
 no_translation_tooltip: No Translation
 
 navigation:
-  contact_header: Contact
+  contact_header: Contacto
 
 color_scheme_switch_tooltip: Color scheme
 
 search:
-  placeholder: Search
-  noResultText: No results found.
+  placeholder: Buscar
+  noResultText: No se encontraron resultados.
 
 image_viewer:
-  load_error: The image could not be loaded.
+  load_error: No se pudo cargar la imagen.
 
 copyright:
-  additional_text: " All rights reserved."
+  additional_text: " Todos los derechos reservados."
 
 creative_commons:
-  some_rights_reserved: Some rights reserved.
+  some_rights_reserved: Algunos derechos reservados.
   # check _data/owner/[language].yml for license type.
   by: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution 4.0 International License.
   by-nd: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
@@ -146,11 +146,11 @@ about:
   email_title: email
 
 # for links layout
-links:
-  title: Links
-  button_name: Links
-  link_text: Web site
-  info_text: Info
+#links:
+#  title: Links
+#  button_name: Links
+#  link_text: Web site
+#  info_text: Info
 
 # for projects layout
 projects:
