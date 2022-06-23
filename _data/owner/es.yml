@@ -19,7 +19,8 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_description"
+  sub_title: "No puedes controlar lo que te pasa en la vida,
+     pero siempre puedes controlar lo que sentirás y harás con lo que te suceda."
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
