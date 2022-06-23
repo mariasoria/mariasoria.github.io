@@ -1,22 +1,22 @@
-[[English](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README.md#readme)] [日本語]
+[English] [[日本語](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README-jp.md#readme)]
 
-## Mr. Green Jekyll テーマ
+## Mr. Green Jekyll Theme
 
 <!-- readme -->
 
 [<img src="https://img.shields.io/github/issues/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub issues" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/issues)
-[<img src="https://img.shields.io/github/forks/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub forks" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README-jp.md#readme)
-[<img src="https://img.shields.io/github/stars/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub stars" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README-jp.md#readme)
+[<img src="https://img.shields.io/github/forks/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub forks" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README.md#readme)
+[<img src="https://img.shields.io/github/stars/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub stars" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README.md#readme)
 [<img src="https://img.shields.io/github/license/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub license" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/LICENSE)
-[<img src="https://shields.io/badge/Patreon-Tip%20me-blue?logo=Patreon" alt="Patreonで支援" data-no-image-viewer>](https://patreon.com/MrGreenWorkshop "Patreonで支援")
-[<img src="https://shields.io/badge/Ko--fi-Tip%20me-blue?logo=kofi" alt="Ko-fiで支援" data-no-image-viewer>](https://www.ko-fi.com/MrGreenWorkshop "Ko-fiで支援")
+[<img src="https://shields.io/badge/Patreon-Tip%20me-blue?logo=Patreon" alt="Tip Me via Patreon" data-no-image-viewer>](https://patreon.com/MrGreensWorkshop "Tip Me via Patreon")
+[<img src="https://shields.io/badge/Ko--fi-Tip%20me-blue?logo=kofi" alt="Tip Me via Ko-fi" data-no-image-viewer>](https://www.ko-fi.com/MrGreensWorkshop "Tip Me via Ko-fi")
 
 ---
 
 <div align="center">
   <img src="https://jekyll-theme-mrgreen-demo.mrgreensworkshop.com/assets/img/posts/mock1.jpg" height="500" alt="screen_mock">
   <br><br>
-  <a href="https://jekyll-theme-mrgreen-demo.mrgreensworkshop.com/ja" style="font-weight: bold;" >ライブデモはこちら</a>
+  <a href="https://jekyll-theme-mrgreen-demo.mrgreensworkshop.com" style="font-weight: bold;" >Click here for live demo</a>
 </div>
 
 
@@ -24,102 +24,102 @@
 
 <!-- outline-start -->
 
-[Mr. Green](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) は、[Jekyll](https://jekyllrb-ja.github.io) で生成された、[GitHub Pages](https://pages.github.com/) と完全に互換性のある多言語テーマです。
+[Mr. Green](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) is a multilingual theme generated with [Jekyll](https://jekyllrb.com/) and fully compatible with [GitHub Pages](https://pages.github.com/).
 
 <!-- outline-end -->
 
-私は自分のWebサイトを作るつもりでしたが、それをテンプレートとして作成すれば、オープンソースコミュニティと共有できると思い、テーマとして作ることにしました。 このプロジェクトの作成に多くの時間と労力を費やしました。そのため、[サポートする](https://github.com/MrGreensWorkshop#sponsorship)ことを考えて頂けたら嬉しいです。
+I was going to make my website and thought if I did it as a template, I could share it with the open source community. That's why I decided to build it as a theme. I've worked so hard to make this possible so I'm happy if you consider [supporting me](https://github.com/MrGreensWorkshop#sponsorship). Thanks.
 
 ### Features
 
-- 多言語Webサイト
-  - 英語 (デフォルト)、日本語
-- おすすめの言語提供機能
-- アイコン有効無効オプション付き自動ナビゲーションボタン追加機能
-- `Home`, `About`, `Archives`, `Post-list`, `Links`, `Projects` 等々のレイアウト
-- カラースキーム切替オプション (ダーク・ライト)
-- 自動コンタクトオプション追加機能
-- 自動画像参照(画像のフルパスを入れる必要なく、先頭に`:`を入れるだけで良い)
-- 画像遅延読み込み、画像ビューア
-- クリエイティブ・コモンズ 表示 4.0 国際 ライセンス付きイケてるフッター
-- 投稿用可動式目次モーダルボックス
-- 投稿共有オプション
-- カテゴリー別、タグ別投稿一覧
-- コメント投稿機能
+- Multilingual web site
+  - English (default), Japanese (日本語)
+- Recommended language offer feature
+- Auto Navigation Button adder with icon enable disable options
+- Layouts for `Home`, `About`, `Archives`, `Post-list`, `Links`, `Projects` and more
+- Color scheme switching options (Dark light)
+- Auto Contact option adder
+- Auto image referrer (no need to add full path for images. Just add `:` in front of it.)
+- image lazy loader, image viewer
+- Cool Footer with creative commons licensing
+- Movable Table of Contents modal box for Posts
+- Post Share Options
+- Post-listing by Category or Tags
+- Comments for posts
   - [Disqus](https://disqus.com)
-- 番号付ページネーションまたはスクロールして読み込むタイプかを選択可能
-- サイトマップ機能
-- SEO(検索エンジン最適化)
+- Selectable numbered pagination or scroll to load type
+- Sitemap feature
+- Search Engine Optimization (SEO)
   - [Schema Markup](https://schema.org)
-  - [Open Graph](https://ogp.me)
+  - [Open Graph](https://ogp.me/)
   - [Twitter](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary)
-- アナリティクス (Google アナリティクス)
-- クッキー使用同意機能
-- サイト内検索機能
-- コード圧縮によるフットプリントの縮小 (`HTML` `JS` `SCSS`)
-- モバイルアプリサポート
-- モバイル端末対応 (Android と IOS でテスト済み)
-- 開発者向けに整理されたフォルダ構造 (Chrome, Safari, FireFox でテスト済み)
+- Analytics (Google Analytics)
+- Cookie consent feature
+- Site Search feature
+- Code Compression for small footprint (`HTML` `JS` `SCSS`)
+- Mobile App support
+- Mobile device friendly (Tested on Android and IOS)
+- Well organized folder structure for developers (Tested on Chrome, Safari, FireFox)
 
 ### Installation
 
 #### Github pages
 
-1. [リポをフォークする](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/fork)。
-1. \_config.yml を編集し、`url` を以下のように変え、変更をプッシュする。
+1. [Fork the repo](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/fork).
+1. Edit \_config.yml and change `url` like below and push changes.
 
    ```yaml
-   url: "https://GitHubユーザー名.github.io"
+   url: "https://your_github_user_name.github.io"
    ```
 
-1. リポ名を `GitHubユーザー名.github.io` に変える。
-1. デプロイのステイタスは、リポ上の `Actions` タブで確認する。
-1. 緑色に変わると、サイトは `https://GitHubユーザー名.github.io` で利用可能になる。
+1. Rename the repo name to `your_github_user_name.github.io`
+1. Check Deploy status `Actions` tab on the repo.
+1. When it's turned to green, your site is up and running at `https://your_github_user_name.github.io`
 
 #### Local build
 
-1. [Jekyll をインストール](https://jekyllrb-ja.github.io/docs/installation/)する。
-1. リポをクローン、または [ダウンロード](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/releases/latest)し、コマンドプロンプトでフォルダに移動し、`bundle install` コマンドを実行する。
-1. `bundle exec jekyll serve --watch --host 0.0.0.0 --safe`コマンドでビルドする。
-    - `--host 0.0.0.0` を指定すると、同じ LAN から Web サーバーにアクセスすることができる。
-    - `--safe`を指定すると、第三者のプラグインが追加されていないことが確認できる。(Github ページ開発用)
-1. ページは `0.0.0.0:4000/` アドレスで稼働する。
+1. [Install Jekyll](https://jekyllrb.com/docs/installation/) to your OS
+1. Clone or [download](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/releases/latest) the repo, in command prompt go to the folder run `bundle install` command
+1. Build using `bundle exec jekyll serve --watch --host 0.0.0.0 --safe` command
+  - with `--host 0.0.0.0` parameter you can access web server from same lan.
+  - with `--safe` parameter you can make sure no 3rd party plugin added. (for Github pages development)
+1. Your page will be up and running at the `0.0.0.0:4000/` address.
 
 ### Documentation
 
-YouTubeの[Mr. Green テーマチュートリアルのプレイリスト](https://www.youtube.com/playlist?list=PL8XOPe9jXvWOrg6XAulRzy9MQl_-A7Yns)を確認してみてください。
+Check out [Mr. Green theme tutorials playlist](https://www.youtube.com/playlist?list=PLAymxPbYHgl-fFy5can7uZBMJtFWVcphD) on YouTube
 
 ### Credits
 
-自分のWebサイトを構築する機会を与えてくれたこれらのプロジェクトに感謝します。
+I want to thank these projects that gave me an opportunity to build my web site.
 
-- [Jekyll](https://jekyllrb-ja.github.io) は、静的サイトジェネレータ。好きなマークアップ言語で書かれたテキストを取り、静的なWebサイトを作成するためのレイアウトを使用している。自身でサイトのルック＆フィール、URL、ページに表示されるデータなどを微調整することができる。ボランティアによって維持されている素晴らしいプロジェクト。
+- [Jekyll](https://jekyllrb.com/) is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more. It is a wonderful project which is maintained by volunteers.
 
-- [GitHub Pages](https://pages.github.com/) は、GitHub のリポジトリから直接ホスティングされる。変更をプッシュするだけで、サイトが自動生成。
+- [GitHub Pages](https://pages.github.com/) Hosted directly from your GitHub repository. Just push the changes and the site will be automatically generated.
 
-このプロジェクト作成中に見つけた役立つサイトを紹介します。[リンクページへ](https://jekyll-theme-mrgreen-demo.mrgreensworkshop.com/ja/tabs/links.html)
+Some of the sites that I find useful while I'm working on this project. [links page](https://jekyll-theme-mrgreen-demo.mrgreensworkshop.com/tabs/links.html)
 
-### [You Can Support My Work](https://github.com/MrGreensWorkshop/MrGreensWorkshop/blob/main/README-jp.md#スポンサーシップ)
+### [You Can Support My Work](https://github.com/MrGreensWorkshop#sponsorship)
 
-何もないところからプロジェクトを立ち上げるのは、とても時間がかかるものです。私がこの様なプロジェクトに取り組み続け、皆さんに新しいコンテンツを提供できるよう、支援をご検討いただければ幸いです。
+Creating projects starting from nothing takes a great amount of time. Much appreciated if you consider supporting me so that I can continue projects like this and creating new contents for everyone.
 
 ### Contribute
 
-プルリクは大歓迎です。イシューとプルリクのテンプレートの手順を確認してください。
+Pull Requests are welcome. Please check the instructions in the Issues and Pull Request templates.
 
 ### License
 
-[MIT license](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/LICENSE)でも示されている通り、ライセンス及び著作権表示をした上で、このテーマをどこでも使用することができます。
+As it says in the [MIT license](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/LICENSE), you can use this theme anywhere as long as you include the license and copyright notice.
 
 `Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com`
 
-ご利用の際に私のページへのリンクを貼ったり、フッターの "Pwrd by Mr. Green "のリンクを残したりして頂くと、私の作品に対してクレジットが得られます。
+Please add link to my page or leave the "Pwrd by Mr. Green" link in the footer so I can get credit for my work.
 
-ありがとうございます。
+Thank you!
 
 ### Other Licenses
 
-Mr. Green Jekyll テーマには、以下のライブラリが組み込まれています。これらのライブラリがなければ、このテーマを完成させることができませんでした。
+Mr. Green Jekyll Theme incorporates libraries written below. Without these libraries, I couldn't make this project possible.
 
 | Library                              | file |
 | :----------------------------------- | ---- |
@@ -132,4 +132,4 @@ Mr. Green Jekyll テーマには、以下のライブラリが組み込まれて
 | [Simple-Jekyll-Search v1.9.2](https://github.com/christian-fei/Simple-Jekyll-Search/tree/v1.9.2), Copyright (c) 2015 Christian Fei. Simple-Jekyll-Search is distributed under the terms of the MIT License. | [simple-jekyll-search-1.9.2.min.js](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/assets/js/simple-jekyll-search-1.9.2.min.js) |
 | [Compress HTML in Jekyll v3.1.0](https://github.com/penibelst/jekyll-compress-html/tree/v3.1.0), Copyright (c) 2014 Anatol Broder. Compress HTML in Jekyll is distributed under the terms of the MIT License. | [compress.liquid](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/_layouts/util/compress.liquid) |
 
-[Mr. Green Jekyll テーマ](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
+[Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
