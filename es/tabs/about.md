@@ -34,9 +34,16 @@ img: ":mariasoriaBW.png"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+Mi nombre es María y nací en Valencia (España).
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+Decidí estudiar la carrera de Ingeniería en Telemática inspirada por mi hermano que estudiaba informática.
 
-{{ website_info_text_second }}
+Durante mi vida profesional he trabajado con diferentes lenguajes de programación como Java,
+Perl, Javascript o Python y usé diferentes frameworks como Spring Boot, Vue3 y Django.
+He trabajado con docker y diferentes tipos de bases de datos, tanto relacionales como orientadas a documentos.
+
+Comparto un canal de [Twitch](https://www.twitch.com/codingiscaring) con mi amiga [Yodra](https://www.yodralopez.dev) donde hablamos de programación, como patrones de diseño,
+katas, buenas prácticas, etc.
+
+Formo parte de la asociación de mujeres desarrolladoras [AdaLoveDev](https://www.twitter.com/adalovedev)
+y soy co-organizadora del evento [AdaLoversConf](http://adaloversconf.es).
