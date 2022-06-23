@@ -78,7 +78,7 @@ post:
         title: Comentarios (Disqus.com)
         text: >
           La funcionalidad de comentarios está alojada por un tercero. Al mostrar el contenido externo, usted acepta los $terms y la $privacy_policy de disqus.com.
-         <br>Si prefiere optar por no recibir publicidad dirigida, abra $settings_link y haga clic en el botón "opt-out" y cierre. Regrese aquí y cargue los comentarios.
+          <br>Si prefiere optar por no recibir publicidad dirigida, abra $settings_link y haga clic en el botón "opt-out" y cierre. Regrese aquí y cargue los comentarios.
         terms_link_text: Términos del Servicio
         privacy_link_text: Política de privacidad
         settings_link_text: este enlace
