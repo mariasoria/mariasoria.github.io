@@ -1,10 +1,8 @@
 ---
-layout: about
+layout: links
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_about
+lng_pair: id_links
 
-# image for page specific usage
-img: ":mariasoriaBW.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -32,18 +30,16 @@ img: ":mariasoriaBW.png"
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
 #published: false
+
+
+# you can always move this content to _data/content/ folder
+# just create new file at _data/content/links/[language].yml and move content below.
+###########################################################
+#                Links Page Data
+###########################################################
+page_data:
+  main:
+    header: "Links"
+    info: "⚠️ Under construction ⚠️"
+
 ---
-
-Mi nombre es María y nací en Valencia (España).
-
-Decidí estudiar la carrera de Ingeniería en Telemática inspirada por mi hermano que estudiaba informática.
-
-Durante mi vida profesional he trabajado con diferentes lenguajes de programación como Java,
-Perl, Javascript o Python y usé diferentes frameworks como Spring Boot, Vue3 y Django.
-He trabajado con docker y diferentes tipos de bases de datos, tanto relacionales como orientadas a documentos.
-
-Comparto un canal de [Twitch](https://www.twitch.com/codingiscaring) con mi amiga [Yodra](https://www.yodralopez.dev) donde hablamos de programación, como patrones de diseño,
-katas, buenas prácticas, etc.
-
-Formo parte de la asociación de mujeres desarrolladoras [AdaLoveDev](https://www.twitter.com/adalovedev)
-y soy co-organizadora del evento [AdaLoversConf](http://adaloversconf.es).

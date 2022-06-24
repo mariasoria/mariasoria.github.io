@@ -40,6 +40,6 @@ lng_pair: id_links
 page_data:
   main:
     header: "Links"
-    info: "⚠️ Under construction ⚠️"
+    info: "⚠️ En construcción ⚠️"
 
 ---

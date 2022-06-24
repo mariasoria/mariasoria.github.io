@@ -1,16 +1,16 @@
 ---
-layout: home
+layout: about
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_home
+lng_pair: id_about
 
 # image for page specific usage
-img: ":/about-bg.png"
+img: ":mariasoriaBW.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
-#date: 2022-06-21 12:32:00 +0000
+#date: 2022-03-03 12:32:00 +0000
 
 # for override items in _data/lang/[language].yml
-title: María Soria Durá
+#title: My title
 #button_name: "My button"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
 #icon: "fa fa-bath"
@@ -31,8 +31,19 @@ title: María Soria Durá
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-# don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false
 ---
 
-Prométeme que siempre recordarás que: eres más valiente de lo que crees, más fuerte de lo que pareces y más inteligente de lo que piensas.
+My name is Maria and I was born in Valencia (Spain).
+
+I decided to study a degree in Engineering in Telematics inspired by my brother who was studying computering.
+
+During my professional life I have worked with different programming languages such Java,
+Perl, Javascript or Python and used different frameworks like Spring Boot, Vue3 and Django.
+I have worked with docker and different kind of databases both relational and document-oriented as well.
+
+I share a [Twitch](https://www.twitch.com/codingiscaring) channel with my friend [Yodra](https://www.yodralopez.dev) where we talk about coding, such as design patterns,
+katas, good practises and so on.
+
+I'm a member of the women developer's association [AdaLoveDev](https://www.twitter.com/adalovedev)
+and co-organiser of the event [AdaLoversConf](http://adaloversconf.es).

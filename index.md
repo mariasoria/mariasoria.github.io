@@ -7,7 +7,7 @@ lng_pair: id_home
 img: ":/about-bg.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
-date: 2022-06-21 12:32:00 +0000
+#date: 2022-06-21 12:32:00 +0000
 
 # for override items in _data/lang/[language].yml
 title: María Soria Durá
@@ -35,4 +35,4 @@ title: María Soria Durá
 #published: false
 ---
 
-Promise me you'll always remember: you are braver than you believe, stronger than you seem and smarter than you think
+Prométeme que siempre recordarás que: eres más valiente de lo que crees, más fuerte de lo que pareces y más inteligente de lo que piensas.

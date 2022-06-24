@@ -1,14 +1,16 @@
 ---
-layout: links
+layout: home
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_links
+lng_pair: id_home
 
+# image for page specific usage
+img: ":/about-bg.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
-#date: 2022-03-03 12:32:00 +0000
+date: 2022-06-21 12:32:00 +0000
 
 # for override items in _data/lang/[language].yml
-#title: My title
+title: María Soria Durá
 #button_name: "My button"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
 #icon: "fa fa-bath"
@@ -29,17 +31,8 @@ lng_pair: id_links
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
+# don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false
-
-
-# you can always move this content to _data/content/ folder
-# just create new file at _data/content/links/[language].yml and move content below.
-###########################################################
-#                Links Page Data
-###########################################################
-page_data:
-  main:
-    header: "Links"
-    info: "⚠️ En construcción ⚠️"
-
 ---
+
+Promise me you'll always remember: you are braver than you believe, stronger than you seem and smarter than you think
