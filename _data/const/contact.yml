@@ -29,6 +29,9 @@ youtube:
 facebook:
   icon: "fa fa-facebook"
   url: "https://www.facebook.com"
+twitch:
+  icon: "fa fa-twitch"
+  url: "https://www.twitch.com"
 # add your new contact
 # your_new_contact:
 #   icon: "fa fa-font"

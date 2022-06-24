@@ -49,12 +49,13 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "mariasoria"
   #- email: ""
-  - linkedin: "in/mariasoriadura"
   - twitter: "marietait3"
-  #- instagram: ""
+  - linkedin: "in/mariasoriadura"
   - youtube: "UCnMX-_3RxIsopGWOVi826fw"
+  - twitch: "codingiscaring"
+  - github: "mariasoria"
+  #- instagram: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
