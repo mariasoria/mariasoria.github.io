@@ -7,7 +7,7 @@ lng_pair: id_home
 img: ":about-bg.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
-#date: 2022-06-21 12:32:00 +0000
+date: 2022-06-21 12:32:00 +0000
 
 # for override items in _data/lang/[language].yml
 title: María Soria Durá
