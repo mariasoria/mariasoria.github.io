@@ -184,15 +184,15 @@ side_and_top_nav_buttons:
   - home:
     icon: "fa fa-home"
   - post-list:
-    icon: "fa fa-pencil-square-o"
+    icon: "fa fa-pencil"
   - archives:
-    icon: "fa fa-archive"
+    icon: "fa fa-calendar"
   - projects:
-    icon: "fa fa-cog"
+    icon: "fa fa-plus"
   - links:
     icon: "fa fa-link"
   - about:
-    icon: "fa fa-user-o"
+    icon: "fa fa-user"
 
 # side nav toggle feature
 # when side nav is not visible and if you click top nav toggle button, side nav slides from left to right (disables top nav buttons)
