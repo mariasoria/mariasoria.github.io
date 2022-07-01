@@ -15,25 +15,122 @@ page_data:
     - title: "Streaming"
       type: id_streaming
       color: "gray"
-#    - title: "Picture"
-#      type: id_picture
-#      color: "#62b462"
-#    - title: "Quote"
-#      type: id_quote
-#      color: "#2FD0ED"
+    - title: "Podcasts"
+      type: id_podcasts
+      color: "#62b462"
+    - title: "Interviews"
+      type: id_interviews
+      color: "#2FD0ED"
 
   list:
     - type: id_streaming
       project_name: "Coding is caring"
-      project_excerpt: "I share with my friend Yodra a Twitch channel..."
+      project_excerpt: "Twitch channel that I share with my friend Yodra in which we spread a little bit of our knowledge in addition to having some very fun times."
       img: ":CICIcon.png"
       img_title: "CIC Icon"
       date: "2021-05-31"
-      post: Since 31st of May of 2021, I share with my friend [Yodra](https://www.yodralopez.dev) a
-        [Twitch](https://www.twitch.com/codingiscaring)
-        channel where we talk about programming related topics.
+      post: |
+        (Content in Spanish)
 
-        We both are software developers and would like to share our knowledge
-        with everyone who is interested.
+        Since 31st of May of 2021, I share with my friend Yodra a Twitch channel where we talk about programming
+        related topics.
 
-        You can follow us on [CodingIsCaring](https://www.twitch.com/codingiscaring)
+        We both are software developers and would like to share our knowledge with everyone who is interested.
+
+        You can follow us on
+        - [Twitch](https://www.twitch.com/codingiscaring)
+        - [Youtube](https://www.youtube.com/channel/UCWpFtDUVvti2NhnFW-j2w8w)
+        - [Twitter](https://twitter.com/codingiscaring)
+
+    - type: id_podcasts
+      project_name: "Devs lives"
+      project_excerpt: "Adrián Ferrera hosts a podcast with interviews in which he talks about both technical and non-technical topics"
+      img: ":devs_lives.png"
+      img_title: "Dev lives Icon"
+      date: "2022-05-09"
+      post: |
+        (Content in Spanish)
+
+        [Adrián](https://twitter.com/AdrianFerrera91) invited me to spend a very pleasant time talking about my experience as a software developer
+         and basically, telling him my life...
+
+        [Episode 3](https://t.co/jBllm6Ntdy)
+
+    - type: id_podcasts
+      project_name: "Ni cero ni uno"
+      project_excerpt: "Carlos Blé has been hosting this podcast for several years in which he talks about present topics"
+      img: ":nicero_niuno.jpeg"
+      img_title: "Ni cero ni uno Icon"
+      date: "2021-10-01"
+      post: |
+        (Content in Spanish)
+
+        In this [episode](https://podcast.carlosble.com/podcast/e26-como-mejorar-tu-ingles/) Carlos talks about "How to improve your English". Along with other people,
+        I participate telling my experience and giving some humble advice.
+
+        [Carlos Blé](https://twitter.com/carlosble)
+
+    - type: id_streaming
+      project_name: "Código Sostenible with Lean Mind and Codely"
+      project_excerpt: "Codely teaches and entertains. Lean Mind carries out good practices and works practicing XP"
+      img: ":codely.png"
+      img_title: "codely Icon"
+      date: "2022-06-28"
+      post: |
+        (Content in Spanish)
+
+        On the occasion of the launch of the book Código Sostenible, written by [Carlos Blé](https://twitter.com/carlosble), we had the opportunity to talk
+        with [Javi](https://twitter.com/JavierCane) from [Codely](https://codely.com/) in a [live streaming](https://www.youtube.com/watch?v=my17Y9z5gB0)
+        in which we play a quiz, analyse code and laugh.
+
+    - type: id_streaming
+      project_name: "Round table about conciliation in AdaLoveDev"
+      project_excerpt: "From the AdaLoveDev association we want to give visibility and empower women in the technology sector, specially, in the software development sector"
+      img: ":ada-love-dev.png"
+      img_title: "adalovedev Icon"
+      date: "2021-09-09"
+      post: |
+        (Content in Spanish)
+
+        As a warm-up for the 2021 AdaLoversConf, we at AdaLoveDev organized a [round table](https://www.youtube.com/watch?v=GMTsw3Kqs-g&list=PL15YnoySH8kEX9JbRv5a2jv57-M_TVgSe&index=3)
+        in which we talk about work/life balance.
+
+        9 women participate in it and we give our different points of view and talk about our experience working and reconciling our life with work.
+
+
+    - type: id_interviews
+      project_name: "Interview previous to the AdaLoversConf 2021"
+      project_excerpt: "AdaLoversConf is the conference organized by the AdaLoveDev association to which I belong"
+      img: ":ada-lovers-conf.png"
+      img_title: ""
+      date: "2021-10-14"
+      post: |
+        (Content in Spanish)
+
+        In this [interview](https://www.youtube.com/watch?v=5FPymwQoPVM&list=PLKxa4AIfm4pWgxKhuQNgOeZ1ITQZxsHQD&index=8), I speak with
+        [Cesar Alberca](https://twitter.com/cesalberca) from [Autentia](https://twitter.com/autentia) about the importance of integrating Extreme Programming
+        in our day to day and follow good practices.
+
+    - type: id_podcasts
+      project_name: "Biri Biri Show"
+      project_excerpt: "Matheus Marabesi and Juan Pablo Blanco host this podcast where they talk about everything and nothing at all while having a lot of fun"
+      img: ":biri_biri_show.jpeg"
+      img_title: "Biri biri Icon"
+      date: "2022-06-10"
+      post: |
+        (Content in Spanish)
+
+        In this [episode](https://anchor.fm/biri-biri-show/episodes/EP-22---TDD--women-in-technology---somos-inclusivos-y-diversos-e1jnf6j )
+        my friend [Yodra López](https://www.yodralopez.dev), [Matheus Marabesi](https://twitter.com/MatheusMarabesi),
+        [Juan Pablo Blanco](https://twitter.com/JPBlancoDB) and I, talk about many things within the technology sector, among them,
+        the diversity that exists (or not) and the obstacles that we have encountered over the years.
+
+#    - type: id_podcasts
+#      project_name: "Podcast Airan e Isaac"
+#      project_excerpt: "Podcast airan e Isaac"
+#      img: ":"
+#      img_title: ""
+#      date: "2021-04-31"
+#      post: |
+#        2022 abril: https://iaimans.com/?podcast=episodio-2-maria
+
