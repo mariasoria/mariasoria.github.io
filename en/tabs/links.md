@@ -31,15 +31,4 @@ lng_pair: id_links
 # to disable this page, simply set published: false or delete this file
 #published: false
 
-
-# you can always move this content to _data/content/ folder
-# just create new file at _data/content/links/[language].yml and move content below.
-###########################################################
-#                Links Page Data
-###########################################################
-page_data:
-  main:
-    header: "Links"
-    info: "⚠️ Under construction ⚠️"
-
 ---

@@ -1,0 +1,64 @@
+###########################################################
+#                Links Page Data
+###########################################################
+page_data:
+  main:
+    header: "Links"
+    info: "A continuación encontrarás diferentes enlaces que te recomiendo visitar"
+
+
+    # To change order of the Categories, simply change order. (you don't need to change list order.)
+  category:
+    - title: "Podcasts recomendados"
+      type: id_podcasts
+      color: "gray"
+    - title: "Directos recomendados"
+      type: id_streamings
+      color: "#F4A273"
+    - title: "Otros enlaces recomendados"
+      type: id_links
+      color: "#62b462"
+
+  list:
+    # Other recommended links
+    - type: id_links
+      title: "Entrevistas previas a la AdaLoversConf 2021"
+      url: "https://www.youtube.com/playlist?list=PLKxa4AIfm4pWgxKhuQNgOeZ1ITQZxsHQD"
+      info: "Entrevistas realizadas a mujeres antes de la AdaLoversConf 2021 (organizada por la asociación AdaLoveDev)"
+    - type: id_links
+      title: "Página web de Yodra López"
+      url: "https://www.yodralopez.dev"
+      info: "Página web de Yodra López en la que encontrarás muchos recursos interesantes"
+    - type: id_links
+      title: "Página web de Lean Mind"
+      url: "https://www.leanmind.es/en"
+      info: "Página web donde encontrarás artículos y recursos muy interesantes"
+
+
+      # Recommended podcasts
+    - type: id_podcasts
+      title: "Devs Lives"
+      url: "https://www.youtube.com/channel/UC8hcSq8ZoFG8hZrZ8XFC7Qw"
+      info: "El podcast de Adrián Ferrera con entrevistas en las que habla tanto de temas técnicos como no técnicos"
+    - type: id_podcasts
+      title: "Ni cero ni uno"
+      url: "https://podcast.carlosble.com/podcast/"
+      info: "El podcast de Carlos Blé en el que trata, desde su punto de vista, temas actuales y a veces un tanto controversiales"
+    - type: id_podcasts
+      title: "Biri Biri Show"
+      url: "https://anchor.fm/biri-biri-show/episodes/"
+      info: "El podcast de Matheus Marabesi y Juan Pablo Blanco en el que hablan de todo y de nada con muy buen humor"
+
+    # Recommended streamings
+    - type: id_streamings
+      title: "Coding is caring"
+      url: "https://www.twitch.com/codingiscaring"
+      info: "Canal de Twitch que comparto con mi amiga Yodra López"
+    - type: id_streamings
+      title: "Código Sostenible con Lean Mind y Codely"
+      url: "https://www.youtube.com/watch?v=my17Y9z5gB0"
+      info: "Codely enseña y entretiene. Lean Mind cuida las buenas prácticas y trabaja practicando XP"
+    - type: id_streamings
+      title: "Mesa redonda conciliación AdaLoveDev"
+      url: "https://www.youtube.com/watch?v=GMTsw3Kqs-g&list=PL15YnoySH8kEX9JbRv5a2jv57-M_TVgSe&index=3"
+      info: "Como calentamiento para la AdaLoversConf de 2021, organizamos una mesa redonda sobre la conciliación vida/trabajo"

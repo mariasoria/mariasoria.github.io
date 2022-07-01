@@ -1,0 +1,64 @@
+###########################################################
+#                Links Page Data
+###########################################################
+page_data:
+  main:
+    header: "Links"
+    info: "You can find below the different links I recommend you to visit"
+
+  # To change order of the Categories, simply change order. (you don't need to change list order.)
+  category:
+    - title: "Recommended podcasts"
+      type: id_podcasts
+      color: "gray"
+    - title: "Recommended streamings"
+      type: id_streamings
+      color: "#F4A273"
+    - title: "Other recommended links"
+      type: id_links
+      color: "#62b462"
+
+  list:
+    # Other recommended links
+    - type: id_links
+      title: "Interviews before the AdaLoversConf 2021"
+      url: "https://www.youtube.com/playlist?list=PLKxa4AIfm4pWgxKhuQNgOeZ1ITQZxsHQD"
+      info: "Interviews with women before the AdaLoversConf 2021 (organized by the AdaLoveDev association)"
+    - type: id_links
+      title: "Yodra López's website"
+      url: "https://www.yodralopez.dev"
+      info: "Website where you can find a lot of interesting resources"
+    - type: id_links
+      title: "Lean Mind's website"
+      url: "https://www.leanmind.es/en"
+      info: "Website where you can find a lot of interesting posts and resources"
+
+
+
+      # Recommended podcasts
+    - type: id_podcasts
+      title: "Devs Lives"
+      url: "https://www.youtube.com/channel/UC8hcSq8ZoFG8hZrZ8XFC7Qw"
+      info: "Adrián Ferrera hosts a podcast with interviews in which he talks about both technical and non-technical topics"
+    - type: id_podcasts
+      title: "Ni cero ni uno"
+      url: "https://podcast.carlosble.com/podcast/"
+      info: "Carlos Blé has been hosting this podcast for several years in which he talks about present topics"
+    - type: id_podcasts
+      title: "Biri Biri Show"
+      url: "https://anchor.fm/biri-biri-show/episodes/"
+      info: "Matheus Marabesi and Juan Pablo Blanco host this podcast where they talk about everything and nothing at all while having a lot of fun"
+
+    # Recommended streamings
+    - type: id_streamings
+      title: "Coding is caring"
+      url: "https://www.twitch.com/codingiscaring"
+      info: "Twitch channel that I share with my friend Yodra"
+    - type: id_streamings
+      title: "Código Sostenible with Lean Mind and Codely"
+      url: "https://www.youtube.com/watch?v=my17Y9z5gB0"
+      info: "Codely teaches and entertains. Lean Mind carries out good practices and works practicing XP"
+    - type: id_streamings
+      title: "Round table about conciliation in AdaLoveDev"
+      url: "https://www.youtube.com/watch?v=GMTsw3Kqs-g&list=PL15YnoySH8kEX9JbRv5a2jv57-M_TVgSe&index=3"
+      info: "As a warm-up for the 2021 AdaLoversConf, we organized a round table about work/life balance"
