@@ -6,21 +6,20 @@ page_data:
     header: "Links"
     info: "A continuación encontrarás diferentes enlaces que te recomiendo visitar"
 
-
-    # To change order of the Categories, simply change order. (you don't need to change list order.)
+  # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "Podcasts recomendados"
+    - title: "Podcasts"
       type: id_podcasts
       color: "gray"
-    - title: "Directos recomendados"
+    - title: "Directos"
       type: id_streamings
       color: "#F4A273"
-    - title: "Otros enlaces recomendados"
+    - title: "Otros enlaces"
       type: id_links
       color: "#62b462"
 
   list:
-    # Other recommended links
+    # Other links
     - type: id_links
       title: "Entrevistas previas a la AdaLoversConf 2021"
       url: "https://www.youtube.com/playlist?list=PLKxa4AIfm4pWgxKhuQNgOeZ1ITQZxsHQD"
@@ -34,8 +33,7 @@ page_data:
       url: "https://www.leanmind.es/en"
       info: "Página web donde encontrarás artículos y recursos muy interesantes"
 
-
-      # Recommended podcasts
+      # Podcasts
     - type: id_podcasts
       title: "Devs Lives"
       url: "https://www.youtube.com/channel/UC8hcSq8ZoFG8hZrZ8XFC7Qw"
@@ -49,7 +47,7 @@ page_data:
       url: "https://anchor.fm/biri-biri-show/episodes/"
       info: "El podcast de Matheus Marabesi y Juan Pablo Blanco en el que hablan de todo y de nada con muy buen humor"
 
-    # Recommended streamings
+    # Streamings
     - type: id_streamings
       title: "Coding is caring"
       url: "https://www.twitch.com/codingiscaring"
