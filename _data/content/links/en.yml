@@ -21,17 +21,17 @@ page_data:
   list:
     # Other links
     - type: id_links
-      title: "Interviews before the AdaLoversConf 2021"
-      url: "https://www.youtube.com/playlist?list=PLKxa4AIfm4pWgxKhuQNgOeZ1ITQZxsHQD"
-      info: "Interviews with women before the AdaLoversConf 2021 (organized by the AdaLoveDev association)"
-    - type: id_links
-      title: "Yodra López's website"
+      title: "Yodra López"
       url: "https://www.yodralopez.dev"
       info: "Website where you can find a lot of interesting resources"
     - type: id_links
-      title: "Lean Mind's website"
+      title: "Lean Mind"
       url: "https://www.leanmind.es/en"
       info: "Website where you can find a lot of interesting posts and resources"
+    - type: id_links
+      title: "Interviews before the AdaLoversConf 2021"
+      url: "https://www.youtube.com/playlist?list=PLKxa4AIfm4pWgxKhuQNgOeZ1ITQZxsHQD"
+      info: "Interviews with women before the AdaLoversConf 2021 (organized by the AdaLoveDev association)"
 
       # Podcasts
     - type: id_podcasts
