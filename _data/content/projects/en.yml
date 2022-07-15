@@ -43,6 +43,17 @@ page_data:
         - [Twitter](https://twitter.com/codingiscaring)
 
     - type: id_podcasts
+      project_name: "La Techtulia"
+      project_excerpt: "Airán Sánchez and Isaac Aiman talk about technical and day-to-day issues in a very entertaining way"
+      img: ":la-tectulia.png"
+      img_title: "La Techtulia Icon"
+      date: "2022-07-06"
+      post: |
+        Airán and Isaac did me the honor of inviting me to their newly released podcast, being their second guest.
+        In this [episode](https://open.spotify.com/episode/4ae9gbeuR6AtPadEddqZPE?si=e6da585852934dd0) we were going to talk about technical things but
+        we ended up talking about the wonders that One Plus devices hide and telling some other anecdotes, to say the least, embarrassing...
+
+    - type: id_podcasts
       project_name: "Devs lives"
       project_excerpt: "Adrián Ferrera hosts a podcast with interviews in which he talks about both technical and non-technical topics"
       img: ":devs_lives.png"
