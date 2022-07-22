@@ -12,6 +12,9 @@ page_data:
     back_color: "lightblue"
 
   category:
+    - title: "Talks"
+      type: id_talks
+      color: "orange"
     - title: "Streaming"
       type: id_streaming
       color: "gray"
@@ -23,6 +26,17 @@ page_data:
       color: "#2FD0ED"
 
   list:
+    - type: id_talks
+      project_name: "AdaSession - Código Sostenible"
+      project_excerpt: "At AdaLoveDev we hold monthly training sessions in which girls from both inside and outside the community share their knowledge"
+      img: ":ada-logo-colors.png"
+      img_title: "CIC Icon"
+      date: "2022-05-18"
+      post: |
+        (Content in Spanish)
+
+        In this [AdaSession](https://www.youtube.com/watch?v=74rRnPdT9Zg) I talked about the importance of writing sustainable code and following good practices.
+         At the end of the session, we held a quiz to see how much the attendees learned.
     - type: id_streaming
       project_name: "Coding is caring"
       project_excerpt: "Twitch channel that I share with my friend Yodra in which we spread a little bit of our knowledge in addition to having some very fun times."
