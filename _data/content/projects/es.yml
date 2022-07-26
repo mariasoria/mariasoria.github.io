@@ -96,6 +96,7 @@ page_data:
       post: |
         Con el motivo del lanzamiento del libro Código Sostenible de [Carlos Blé](https://twitter.com/carlosble) tuvimos la ocasión de hablar
         con [Javi](https://twitter.com/JavierCane) de [Codely](https://codely.com/) en un [directo](https://www.youtube.com/watch?v=my17Y9z5gB0) en el que hacemos un quiz, analizamos código y nos reímos un rato.
+        Hubo una segunda parte con [Rafa](https://twitter.com/rafaoe). En este [directo](https://www.youtube.com/watch?v=3n-nkx4s5mw) refactorizamos un poquito de código y dimos algunos consejos.
 
     - type: id_streaming
       project_name: "Mesa redonda conciliación AdaLoveDev"
