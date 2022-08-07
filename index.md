@@ -10,7 +10,7 @@ img: ":about-bg.png"
 date: 2022-06-21 12:32:00 +0000
 
 # for override items in _data/lang/[language].yml
-title: María Soria Durá
+#title: María Soria Durá
 #button_name: "My button"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
 #icon: "fa fa-bath"
