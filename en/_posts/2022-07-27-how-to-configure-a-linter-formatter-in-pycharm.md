@@ -60,24 +60,20 @@ In order to configure this in our IDE we can follow the next steps:
 2. Create in the root of your project a **setup.cfg** file which will
 contain the configuration that the linter will follow. Example of the syntax of this file:
 
-       ```
        [pycodestyle]
        max-line-length = 120
 
        [pydocstyle]
        ignore = D100, D101, D102, D107
-       ```
 
      - Line 1 indicates the linter (for the code) that will be used to analyse the code.
      - Line 2 (in this example) overrides the default config for the max line length and sets it to 120 chars.
      - Line 4 indicates the linter for the documentation that will be used to analyse the documentation.
      - Line 5 tells the linter to ignore some specific [rules](https://pycodestyle.pycqa.org/en/latest/intro.html#error-codes) set by default (that how we can customise our analysis to ignore some rules that we disagree with or we want to ignore for the time being).
 
-     If you have doubts of how to use these tools you can always go to the shell/bash/terminal in your computer and use the *help documentation* in order to see the options you have got to add to this setup file. Typing for example:
+    If you have doubts of how to use these tools you can always go to the shell/bash/terminal in your computer and use the *help documentation* in order to see the options you have got to add to this setup file. Typing for example:
 
-          ```jsx
-          pydocstyle --h
-          ```
+        pydocstyle --h
 
 3. We need to define the linter (**pycodestyle**) as an *External Tool*. (**Preferences → Tools → External Tools**).
 Click on the + symbol. (*A new window will be opened. The config below needs to be applied)*
