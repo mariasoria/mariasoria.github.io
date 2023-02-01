@@ -27,17 +27,45 @@ page_data:
 
   list:
     - type: id_talks
+      project_name: "SCBCN'22 - Código Sostenible"
+      project_excerpt: "La Software Crafters Barcelona se celebró en octubre y tuvo una gran calidad de charlas."
+      img: ":scbcn.png"
+      img_title: "SCBCN Icon"
+      date: "2022-10-22"
+      post: |
+        [Carlos Blé](https://www.carlosble.com) y yo participamos en esta conferencia con una charla en la que
+        nos disfrazamos, explicamos la importancia de escribir código sostenible y aplicar buenas prácticas y, dimos
+        algún que otro consejo para hacerlo sin morir en el intento.
+        La sesión grabada no es pública, pero [aquí](https://leanmind.es/es/blog/codigo-sostenible-song/) puedes ver
+        un poquito de lo que fue y aprender la canción del código sostenible.
+
+    - type: id_talks
+      project_name: "AdaLoversConf'22 - Código Sostenible...pero, ¿eso es posible?"
+      project_excerpt: "La AdaLoversconf de 2022 no se pudo llevar a cabo en persona, así que la organización
+      trabajó muy duro para reorganizarlo todo y poder retransmitir las charlas en directo."
+      img: ":ada-lovers-conf.png"
+      img_title: "AdaLoversConf Icon"
+      date: "2022-09-24"
+      post: |
+        En esta [charla](https://www.youtube.com/live/MZhj-YX4KVU?feature=share&t=7270) conté mi experiencia escribiendo
+        código y la importancia de escribir código sostenible y aplicar buenas prácticas. Al final de la sesión,
+        realizamos un quiz para ver cuánto habían aprendido los espectadores.
+
+    - type: id_talks
       project_name: "AdaSession - Código Sostenible"
-      project_excerpt: "En AdaLoveDev realizamos mensualmente sesiones de formación en las que chicas tanto de dentro como fuera de la comunidad comparten su conocimiento"
+      project_excerpt: "En AdaLoveDev realizamos mensualmente sesiones de formación en las que chicas tanto de dentro
+      como fuera de la comunidad comparten su conocimiento"
       img: ":ada-logo-colors.png"
       img_title: "CIC Icon"
       date: "2022-05-18"
       post: |
-        En esta [AdaSession](https://www.youtube.com/watch?v=74rRnPdT9Zg) hablé de la importancia de escribir código sostenible y seguir buenas prácticas.
-        Al final de la sesión, realizamos un concurso con preguntas para ver cuánto aprendieron las asistentes.
+        En esta [AdaSession](https://www.youtube.com/watch?v=74rRnPdT9Zg) hablé de la importancia de escribir código
+        sostenible y seguir buenas prácticas. Al final de la sesión, realizamos un concurso con preguntas para ver
+        cuánto aprendieron las asistentes.
     - type: id_streaming
       project_name: "Coding is caring"
-      project_excerpt: "Canal de Twitch que comparto con mi amiga Yodra en el que divulgamos un poquito de nuestro conocimiento además de pasar unos ratos muy divertidos."
+      project_excerpt: "Canal de Twitch que comparto con mi amiga Yodra en el que divulgamos un poquito de nuestro
+      conocimiento además de pasar unos ratos muy divertidos."
       img: ":CICIcon.png"
       img_title: "CIC Icon"
       date: "2021-05-31"
@@ -60,30 +88,38 @@ page_data:
       date: "2022-07-06"
       post: |
         Airán e Isaac me hicieron el honor de invitarme a su podcast recién estrenado, siendo yo su segunda invitada.
-        En este [episodio](https://open.spotify.com/episode/4ae9gbeuR6AtPadEddqZPE?si=e6da585852934dd0) íbamos a hablar de cosas técnicas pero
-        terminamos hablando de las maravillas que esconden los dispositivos One Plus y contando alguna que otra anécdota, cuanto menos, embarazosa...
+        En este [episodio](https://open.spotify.com/episode/4ae9gbeuR6AtPadEddqZPE?si=e6da585852934dd0) íbamos a
+        hablar de cosas técnicas pero terminamos hablando de las maravillas que esconden los dispositivos One Plus y
+        contando alguna que otra anécdota, cuanto menos, embarazosa...
 
     - type: id_podcasts
       project_name: "Devs lives"
-      project_excerpt: "Adrián Ferrera realiza un podcast con entrevistas en las que habla tanto de temas técnicos como no técnicos"
+      project_excerpt: "Adrián Ferrera realiza un podcast con entrevistas en las que habla tanto de temas técnicos
+      como no técnicos"
       img: ":devs_lives.png"
       img_title: "Dev lives Icon"
       date: "2022-05-09"
       post: |
-        [Adrián](https://twitter.com/AdrianFerrera91) me invitó a pasar un rato muy ameno hablando de mi experiencia como software developer
-        y básicamente, contándole mi vida...
+        [Adrián](https://twitter.com/AdrianFerrera91) me invitó a pasar un rato muy ameno hablando de mi experiencia
+        como software developer y básicamente, contándole mi vida...
 
         [Episodio 3](https://t.co/jBllm6Ntdy)
 
+        Adrián me invitó (otra vez) a pasar una mañana divertida hablando de buenas prácticas, conferencias (con Karaoke)
+        y mucho, mucho más.
+
+        [Episode 31](https://youtu.be/wARSBl6lNo8)
+
     - type: id_podcasts
       project_name: "Ni cero ni uno"
-      project_excerpt: "Carlos Blé lleva varios años con este podcast en el que trata, desde su punto de vista, de temas actuales"
+      project_excerpt: "Carlos Blé lleva varios años con este podcast en el que trata, desde su punto de vista, de
+      temas actuales"
       img: ":nicero_niuno.jpeg"
       img_title: "Ni cero ni uno Icon"
       date: "2021-10-01"
       post: |
-        En este [episodio](https://podcast.carlosble.com/podcast/e26-como-mejorar-tu-ingles/) Carlos habla de "Como mejorar tu ingles". Junto con otras personas,
-        participo contando mi experiencia y dando algún que otro consejo.
+        En este [episodio](https://podcast.carlosble.com/podcast/e26-como-mejorar-tu-ingles/) Carlos habla de
+        "Como mejorar tu ingles". Junto con otras personas, participo contando mi experiencia y dando algún que otro consejo.
 
         [Carlos Blé](https://twitter.com/carlosble)
 
@@ -94,21 +130,26 @@ page_data:
       img_title: "codely Icon"
       date: "2022-06-28"
       post: |
-        Con el motivo del lanzamiento del libro Código Sostenible de [Carlos Blé](https://twitter.com/carlosble) tuvimos la ocasión de hablar
-        con [Javi](https://twitter.com/JavierCane) de [Codely](https://codely.com/) en un [directo](https://www.youtube.com/watch?v=my17Y9z5gB0) en el que hacemos un quiz, analizamos código y nos reímos un rato.
-        Hubo una segunda parte con [Rafa](https://twitter.com/rafaoe). En este [directo](https://www.youtube.com/watch?v=3n-nkx4s5mw) refactorizamos un poquito de código y dimos algunos consejos.
+        Con el motivo del lanzamiento del libro Código Sostenible de [Carlos Blé](https://twitter.com/carlosble)
+        tuvimos la ocasión de hablar con [Javi](https://twitter.com/JavierCane) de [Codely](https://codely.com/)
+        en un [directo](https://www.youtube.com/watch?v=my17Y9z5gB0) en el que hacemos un quiz, analizamos código y
+        nos reímos un rato. Hubo una segunda parte con [Rafa](https://twitter.com/rafaoe). En este
+        [directo](https://www.youtube.com/watch?v=3n-nkx4s5mw) refactorizamos un poquito de código y dimos algunos consejos.
 
     - type: id_streaming
       project_name: "Mesa redonda conciliación AdaLoveDev"
-      project_excerpt: "Desde la asociación AdaLoveDev queremos dar visibilidad y empoderar a las mujeres en el sector tecnológico, concretamente, en el sector de desarrollo de software"
+      project_excerpt: "Desde la asociación AdaLoveDev queremos dar visibilidad y empoderar a las mujeres en el
+      sector tecnológico, concretamente, en el sector de desarrollo de software"
       img: ":ada-love-dev.png"
       img_title: "adalovedev Icon"
       date: "2021-09-09"
       post: |
-        Como calentamiento para la AdaLoversConf de 2021, en AdaLoveDev organizamos una [mesa redonda](https://www.youtube.com/watch?v=GMTsw3Kqs-g&list=PL15YnoySH8kEX9JbRv5a2jv57-M_TVgSe&index=3)
+        Como calentamiento para la AdaLoversConf de 2021, en AdaLoveDev organizamos una
+        [mesa redonda](https://www.youtube.com/watch?v=GMTsw3Kqs-g&list=PL15YnoySH8kEX9JbRv5a2jv57-M_TVgSe&index=3)
         sobre la conciliación vida/trabajo.
 
-        En ella participamos 9 mujeres y damos nuestros diferentes puntos de vista y hablamos de nuestra experiencia trabajando y conciliando nuestra vida con el trabajo.
+        En ella participamos 9 mujeres y damos nuestros diferentes puntos de vista y hablamos de nuestra experiencia
+        trabajando y conciliando nuestra vida con el trabajo.
 
     - type: id_interviews
       project_name: "Entrevista previa a la AdaLoversConf 2021"
@@ -117,21 +158,22 @@ page_data:
       img_title: ""
       date: "2021-10-14"
       post: |
-        En esta [entrevista](https://www.youtube.com/watch?v=5FPymwQoPVM&list=PLKxa4AIfm4pWgxKhuQNgOeZ1ITQZxsHQD&index=8), hablo con
-        [Cesar Alberca](https://twitter.com/cesalberca) de [Autentia](https://twitter.com/autentia) sobre la importancia de integrar el Extreme Programming
-        en nuestro día a día y seguir buenas prácticas.
+        En esta [entrevista](https://www.youtube.com/watch?v=5FPymwQoPVM&list=PLKxa4AIfm4pWgxKhuQNgOeZ1ITQZxsHQD&index=8),
+        hablo con [Cesar Alberca](https://twitter.com/cesalberca) de [Autentia](https://twitter.com/autentia) sobre la
+        importancia de integrar el Extreme Programming en nuestro día a día y seguir buenas prácticas.
 
     - type: id_podcasts
       project_name: "Biri Biri Show"
-      project_excerpt: "Matheus Marabesi y Juan Pablo Blanco tienen este podcast en el que hablan de todo y de nada con muy buen humor"
+      project_excerpt: "Matheus Marabesi y Juan Pablo Blanco tienen este podcast en el que hablan de todo y de nada
+      con muy buen humor"
       img: ":biri_biri_show.jpeg"
       img_title: "Biri biri Icon"
       date: "2022-06-10"
       post: |
         En este [episodio](https://anchor.fm/biri-biri-show/episodes/EP-22---TDD--mujeres-en-la-tecnologa---somos-inclusivos-y-diversos-e1jnf6j)
         mi amiga [Yodra López](https://www.yodralopez.dev), [Matheus Marabesi](https://twitter.com/MatheusMarabesi) y
-        [Juan Pablo Blanco](https://twitter.com/JPBlancoDB) hablamos sobre muchas cosas dentro del sector tecnológico, entre ellas,
-        la diversidad que existe (o no) y los obstáculos que nos hemos encontrado a lo largo de los años.
+        [Juan Pablo Blanco](https://twitter.com/JPBlancoDB) hablamos sobre muchas cosas dentro del sector tecnológico,
+        entre ellas, la diversidad que existe (o no) y los obstáculos que nos hemos encontrado a lo largo de los años.
 
 #    - type: id_podcasts
 #      project_name: "Podcast Airan e Isaac"

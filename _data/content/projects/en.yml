@@ -27,19 +27,50 @@ page_data:
 
   list:
     - type: id_talks
+      project_name: "SCBCN'22 - Código Sostenible"
+      project_excerpt: "Software Crafters Barcelona conference was celebrated in October and it had a lot of good talks."
+      img: ":scbcn.png"
+      img_title: "SCBCN Icon"
+      date: "2022-10-22"
+      post: |
+        [Carlos Blé](https://www.carlosble.com) and I participated in this conference with a talk where we dressed up,
+        explained the importance of writing sustainable code and apply good practises and we give some advise of how
+        to do it and not die while trying.
+        The recorded session is not public, but [here](https://leanmind.es/es/blog/codigo-sostenible-song/) you can see
+        a bit of what it was and learn the song of the sustainable code.
+
+    - type: id_talks
+      project_name: "AdaLoversConf'22 - Código Sostenible...pero, ¿eso es posible?"
+      project_excerpt: "AdaLoversConf in 2022 could not be held in person, so the organization
+      worked very hard to re-organise everything and stream it instead."
+      img: ":ada-lovers-conf.png"
+      img_title: "AdaLoversConf Icon"
+      date: "2022-09-24"
+      post: |
+        (Content in Spanish)
+
+        In this [talk](https://www.youtube.com/live/MZhj-YX4KVU?feature=share&t=7270) I talked about my experience
+        writing code and the importance of writing sustainable code and following good practices. At the end of the
+        session, we held a quiz to see how much the attendees learned.
+
+    - type: id_talks
       project_name: "AdaSession - Código Sostenible"
-      project_excerpt: "At AdaLoveDev we hold monthly training sessions in which girls from both inside and outside the community share their knowledge"
+      project_excerpt: "At AdaLoveDev we hold monthly training sessions in which girls from both inside and outside
+      the community share their knowledge"
       img: ":ada-logo-colors.png"
-      img_title: "CIC Icon"
+      img_title: "AdaSession Icon"
       date: "2022-05-18"
       post: |
         (Content in Spanish)
 
-        In this [AdaSession](https://www.youtube.com/watch?v=74rRnPdT9Zg) I talked about the importance of writing sustainable code and following good practices.
-         At the end of the session, we held a quiz to see how much the attendees learned.
+        In this [AdaSession](https://www.youtube.com/watch?v=74rRnPdT9Zg) I talked about the importance of writing
+        sustainable code and following good practices. At the end of the session, we held a quiz to see how much
+        the attendees learned.
+
     - type: id_streaming
       project_name: "Coding is caring"
-      project_excerpt: "Twitch channel that I share with my friend Yodra in which we spread a little bit of our knowledge in addition to having some very fun times."
+      project_excerpt: "Twitch channel that I share with my friend Yodra in which we spread a little bit of our
+      knowledge in addition to having some very fun times."
       img: ":CICIcon.png"
       img_title: "CIC Icon"
       date: "2021-05-31"
@@ -58,28 +89,36 @@ page_data:
 
     - type: id_podcasts
       project_name: "La Techtulia"
-      project_excerpt: "Airán Sánchez and Isaac Aiman talk about technical and day-to-day issues in a very entertaining way"
+      project_excerpt: "Airán Sánchez and Isaac Aiman talk about technical and day-to-day issues in a very
+      entertaining way"
       img: ":la-tectulia.png"
       img_title: "La Techtulia Icon"
       date: "2022-07-06"
       post: |
         Airán and Isaac did me the honor of inviting me to their newly released podcast, being their second guest.
-        In this [episode](https://open.spotify.com/episode/4ae9gbeuR6AtPadEddqZPE?si=e6da585852934dd0) we were going to talk about technical things but
-        we ended up talking about the wonders that One Plus devices hide and telling some other anecdotes, to say the least, embarrassing...
+        In this [episode](https://open.spotify.com/episode/4ae9gbeuR6AtPadEddqZPE?si=e6da585852934dd0) we were
+        going to talk about technical things but we ended up talking about the wonders that One Plus devices hide
+        and telling some other anecdotes, to say the least, embarrassing...
 
     - type: id_podcasts
       project_name: "Devs lives"
-      project_excerpt: "Adrián Ferrera hosts a podcast with interviews in which he talks about both technical and non-technical topics"
+      project_excerpt: "Adrián Ferrera hosts a podcast with interviews in which he talks about both technical and
+      non-technical topics"
       img: ":devs_lives.png"
       img_title: "Dev lives Icon"
       date: "2022-05-09"
       post: |
         (Content in Spanish)
 
-        [Adrián](https://twitter.com/AdrianFerrera91) invited me to spend a very pleasant time talking about my experience as a software developer
-         and basically, telling him my life...
+        [Adrián](https://twitter.com/AdrianFerrera91) invited me to spend a very pleasant time talking about my
+        experience as a software developer and basically, telling him my life...
 
         [Episode 3](https://t.co/jBllm6Ntdy)
+
+        Adrián invited me (again) to spend a funny morning talking about good practises, conferences (with Karaoke)
+        and much, much more.
+
+        [Episode 31](https://youtu.be/wARSBl6lNo8)
 
     - type: id_podcasts
       project_name: "Ni cero ni uno"
@@ -90,8 +129,9 @@ page_data:
       post: |
         (Content in Spanish)
 
-        In this [episode](https://podcast.carlosble.com/podcast/e26-como-mejorar-tu-ingles/) Carlos talks about "How to improve your English". Along with other people,
-        I participate telling my experience and giving some humble advice.
+        In this [episode](https://podcast.carlosble.com/podcast/e26-como-mejorar-tu-ingles/) Carlos talks about
+        "How to improve your English". Along with other people, I participate telling my experience and giving some
+        humble advice.
 
         [Carlos Blé](https://twitter.com/carlosble)
 
@@ -104,24 +144,28 @@ page_data:
       post: |
         (Content in Spanish)
 
-        On the occasion of the launch of the book Código Sostenible, written by [Carlos Blé](https://twitter.com/carlosble), we had the opportunity to talk
-        with [Javi](https://twitter.com/JavierCane) from [Codely](https://codely.com/) in a [live streaming](https://www.youtube.com/watch?v=my17Y9z5gB0)
-        in which we play a quiz, analyse code and laugh. There was a second part with [Rafa](https://twitter.com/rafaoe). In this
-        [streaming](https://www.youtube.com/watch?v=3n-nkx4s5mw) we refactored a bit of code and gave some tips.
+        On the occasion of the launch of the book Código Sostenible, written by [Carlos Blé](https://twitter.com/carlosble),
+        we had the opportunity to talk with [Javi](https://twitter.com/JavierCane) from [Codely](https://codely.com/)
+        in a [live streaming](https://www.youtube.com/watch?v=my17Y9z5gB0) in which we play a quiz, analyse code and laugh.
+        There was a second part with [Rafa](https://twitter.com/rafaoe). In this [streaming](https://www.youtube.com/watch?v=3n-nkx4s5mw)
+        we refactored a bit of code and gave some tips.
 
     - type: id_streaming
       project_name: "Round table about conciliation in AdaLoveDev"
-      project_excerpt: "From the AdaLoveDev association we want to give visibility and empower women in the technology sector, specially, in the software development sector"
+      project_excerpt: "AdaLoveDev association wants to give visibility and empower women in the technology
+      sector, specially, in software development"
       img: ":ada-love-dev.png"
       img_title: "adalovedev Icon"
       date: "2021-09-09"
       post: |
         (Content in Spanish)
 
-        As a warm-up for the 2021 AdaLoversConf, we at AdaLoveDev organized a [round table](https://www.youtube.com/watch?v=GMTsw3Kqs-g&list=PL15YnoySH8kEX9JbRv5a2jv57-M_TVgSe&index=3)
+        As a warm-up for the 2021 AdaLoversConf, we at AdaLoveDev organized a
+        [round table](https://www.youtube.com/watch?v=GMTsw3Kqs-g&list=PL15YnoySH8kEX9JbRv5a2jv57-M_TVgSe&index=3)
         in which we talk about work/life balance.
 
-        9 women participate in it and we give our different points of view and talk about our experience working and reconciling our life with work.
+        9 women participate in it and we give our different points of view and talk about our experience working and
+        reconciling our life with work.
 
 
     - type: id_interviews
@@ -133,13 +177,14 @@ page_data:
       post: |
         (Content in Spanish)
 
-        In this [interview](https://www.youtube.com/watch?v=5FPymwQoPVM&list=PLKxa4AIfm4pWgxKhuQNgOeZ1ITQZxsHQD&index=8), I speak with
-        [Cesar Alberca](https://twitter.com/cesalberca) from [Autentia](https://twitter.com/autentia) about the importance of integrating Extreme Programming
-        in our day to day and follow good practices.
+        In this [interview](https://www.youtube.com/watch?v=5FPymwQoPVM&list=PLKxa4AIfm4pWgxKhuQNgOeZ1ITQZxsHQD&index=8),
+        I speak with [Cesar Alberca](https://twitter.com/cesalberca) from [Autentia](https://twitter.com/autentia)
+        about the importance of integrating Extreme Programming in our day to day and follow good practices.
 
     - type: id_podcasts
       project_name: "Biri Biri Show"
-      project_excerpt: "Matheus Marabesi and Juan Pablo Blanco host this podcast where they talk about everything and nothing at all while having a lot of fun"
+      project_excerpt: "Matheus Marabesi and Juan Pablo Blanco host this podcast where they talk about everything and
+      nothing at all while having a lot of fun"
       img: ":biri_biri_show.jpeg"
       img_title: "Biri biri Icon"
       date: "2022-06-10"
@@ -148,8 +193,8 @@ page_data:
 
         In this [episode](https://anchor.fm/biri-biri-show/episodes/EP-22---TDD--women-in-technology---somos-inclusivos-y-diversos-e1jnf6j)
         my friend [Yodra López](https://www.yodralopez.dev), [Matheus Marabesi](https://twitter.com/MatheusMarabesi),
-        [Juan Pablo Blanco](https://twitter.com/JPBlancoDB) and I, talk about many things within the technology sector, among them,
-        the diversity that exists (or not) and the obstacles that we have encountered over the years.
+        [Juan Pablo Blanco](https://twitter.com/JPBlancoDB) and I, talk about many things within the technology sector,
+        among them, the diversity that exists (or not) and the obstacles that we have encountered over the years.
 
 #    - type: id_podcasts
 #      project_name: "Podcast Airan e Isaac"
